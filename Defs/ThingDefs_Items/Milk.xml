@@ -19,7 +19,7 @@
       </li>
     </comps>
     <ingestible>
-      <preferability>RawBad</preferability>
+      <preferability>DesperateOnly</preferability>
       <foodType>AnimalProduct, Fluid</foodType>
       <nutrition>0.05</nutrition>
     </ingestible>
