@@ -4,6 +4,10 @@ This is a mod for the game RimWorld by Ludeon Studios.
 
 It stops your pawns from drinking the milk.
 
+# DEPRECATED
+
+With the advent of Food Policy, this is no longer necessary.
+
 # Table of Contents
 
 * [Introduction and Explanation](#introduction-and-explanation)
